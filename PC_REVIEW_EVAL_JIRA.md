@@ -23,5 +23,6 @@ The submission may be resubmitted at a later time.
 
 **APPROVED** Once the evalution results are reviewed by the PC and the submission is approved, the PC transtions the issue to this state.
 
-**REJECTED** Once the evalution results are reviewed by the PC and the submission is rejected, the PC transtions the issue to this state. 
-The submitter may resubmit the submission once the failed criteria are addressed.
+**APPROVED FOLLOW UP NEEDED** Once the evalution results are reviewed by the PC and the submission is approved and a follow up is needed, the PC transtions the issue to this state.
+
+**REJECTED** Once the evalution results are reviewed by the PC and the submission is rejected, the PC transtions the issue to this state. The submitter may resubmit the submission once the failed criteria are addressed.
