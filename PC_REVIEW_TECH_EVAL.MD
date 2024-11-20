@@ -10,7 +10,7 @@ This document outlines the processes for **product** evaluation of new funcitona
 1. Approval/Rejection
 
 ### Supporting documentation
-* Details of the JIRA workflow are captured in a separate [document](PC NEW_MOD_TECH_EVAL_JIRA.md). 
+* Details of the JIRA workflow are captured in a separate [document](PC_REVIEW_EVAL_JIRA.md). 
 * Functionality evaluation by the Product Council is part of a larger process involving the other FOLIO Councils (PC/CC). A description of the full process is currently being developed by a cross council working group. Upon completion a link to this process will be added here. 
 
 ## Before Development
@@ -23,8 +23,8 @@ This document outlines the processes for **product** evaluation of new funcitona
     * An Evaluator will only respond to submissions from the official Submitters as defined in the 'Roles' section of this document.
 1. The Product Council will update the JIRA within 1 week (See JIRA workflow for details) with the following information:
     * Confirm receipt of the submission
-    * Who will be performing the role of Evaluator, as defined in the 'Roles' secrtion of this document
-    * Provide an rough estimate for the initial evaluation to be completed
+    * Who will be performing the role of Evaluator, as defined in the 'Roles' section of this document
+    * Provide a rough estimate for the initial evaluation to be completed
       * Should be 3 weeks or less.
     * Request additional information
       * If there are missing points of contact, the Product Council will be contacted
@@ -35,7 +35,7 @@ This document outlines the processes for **product** evaluation of new funcitona
 
 ### Submission form
 Information gathered includes:
-* Funcationality name
+* Functionality name
 * Description of functionality
 * Link to source - a tag/commit in a publicly accessible git (preferably GitHub) repository 
 * List of related functionality (e.g. is this a Frontend/backend pair?  Business logic/storage pair?  ePC.)
@@ -56,7 +56,7 @@ Information gathered includes:
 1. If there’s a new submission, the Product Council finds one or more people to perform the role of Evaluator. 
     * The review team will be formed in a way to allow for a fair review and avoid either perceived or actual conflicts of interest.  No members should have participated in the module's development, and at least one member should be independent of the submitter's organization.  The lead evaluator will be assigned in JIRA; if the submitting team has concerns about the chosen evaluator they should contact the PC chairs within one week of the assignment.
     * JIRA workflow: the ticket is transitioned from **SUBMITTED** to **UNDER EVALUATION**
-    * In order to improve notifications when the Jira is updated, the primary reviewer should be the Assignee and other members of the review team should be issue waPChers.
+    * In order to improve notifications when the Jira is updated, the primary reviewer should be the Assignee and other members of the review team should be issue watchers.
 1. The module is evaluated.
     * If the Evaluator(s) have questions, they may reach out to the Point of Contact for clarification.
       * This may be an iterative process: the evaluator and submitter may choose to iterate on the submission, making adjustment to address the questions raised. 
@@ -67,7 +67,7 @@ Information gathered includes:
 
 ## Review
 1. The Product Council reviews the evaluation results.
-    * The evaluators present the evaluation results, and optionally recommends a PC decision.
+    * The evaluators present the evaluation results, and optionally reccommends a PC decision.
     * Asks any questions they have for the evaluators.
     * Weigh in on any subjective criteria.
     * The Product Council may ask the Evaluator(s) to make changes to the evaluation.  
