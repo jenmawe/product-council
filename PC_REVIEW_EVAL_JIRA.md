@@ -1,4 +1,4 @@
-# New Module Technical Evaluation Process JIRA Workflow
+# New Review Evaluation Process JIRA Workflow
 
 ## Overview
 This document outlines the JIRA Project and Workflow used by the New Functionality Product Council Evaluation Process.
