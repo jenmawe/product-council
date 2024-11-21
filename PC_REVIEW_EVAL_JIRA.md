@@ -8,7 +8,7 @@ This document outlines the JIRA Project and Workflow used by the New Functionali
 * The only available issue type and one that should be used for submissions is "Task".
 
 ## JIRA Workflow
-![Product Council Requests Workflow](assets/pc_workflow.png)
+![Product Council Requests Workflow](assets/pc2_workflow.png)
 
 **DRAFT** Initial status for newly created submissions.
 
