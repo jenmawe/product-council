@@ -19,10 +19,10 @@ This document outlines the JIRA Project and Workflow used by the New Functionali
 **CANCELLED** If the submitter decides to withdraw the submission (alone or together with the evalation group), he/she transitions the issue to this state.
 The submission may be resubmitted at a later time.
 
-**UNDER PC REVIEW** Once the evaluation is complete, the evalution group communicates the results and transitions the issue to this state.
+**PC Presentation Scheduled** Once the initial evaluation is complete, the evalution group communicates schedules a time for the submitters to present at a PC meeting and transitions the issue to this state.
 
 **APPROVED** Once the evalution results are reviewed by the PC and the submission is approved, the PC transtions the issue to this state.
 
-**APPROVED FOLLOW UP NEEDED** Once the evalution results are reviewed by the PC and the submission is approved and a follow up is needed, the PC transtions the issue to this state.
+**APPROVED FOLLOW UP NEEDED** Once the evalution results are reviewed by the PC, the submission is approved, and a follow up is needed, the PC transtions the issue to this state.
 
 **REJECTED** Once the evalution results are reviewed by the PC and the submission is rejected, the PC transtions the issue to this state. The submitter may resubmit the submission once the failed criteria are addressed.
