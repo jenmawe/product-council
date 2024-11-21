@@ -14,12 +14,12 @@ This document outlines the JIRA Project and Workflow used by the New Functionali
 
 **SUBMITTED** Once the submission is ready for the PC review, the submitter transitions the issue to this state.
 
-**UNDER EVALUATION** Once the submission is reviewed by the PC and an evaluation group is formed, the PC indicates this by transitioning the issue to this state.
+**INITIAL EVALUATION** Once the submission is reviewed by the PC and an evaluation group is formed, the PC indicates this by transitioning the issue to this state.
 
 **CANCELLED** If the submitter decides to withdraw the submission (alone or together with the evalation group), he/she transitions the issue to this state.
 The submission may be resubmitted at a later time.
 
-**PC Presentation Scheduled** Once the initial evaluation is complete, the evalution group communicates schedules a time for the submitters to present at a PC meeting and transitions the issue to this state.
+**PC PRESENTATION SCHEDULED** Once the initial evaluation is complete, the evalution group communicates schedules a time for the submitters to present at a PC meeting and transitions the issue to this state.
 
 **APPROVED** Once the evalution results are reviewed by the PC and the submission is approved, the PC transtions the issue to this state.
 
